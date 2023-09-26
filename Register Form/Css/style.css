@@ -100,6 +100,7 @@ button:hover{
     align-items: center;
     border: 2px solid #c4c4c4;
     border-radius: 8px;
+    box-shadow: 8px 10px 10px 1px rgba(0 0 0);
 }
 form div i{
     position: absolute;
@@ -109,9 +110,29 @@ form div i{
     background-color:#228BE6;
     color: white;
 }
-form div ::placeholder{
-    padding: 30px;
-}
-form div a{
+form div span{
     color:#f2796e ;
 }
+@media(max-width: 900px){
+    .container{
+        flex-direction: column;
+    }
+    .image{
+        height: 70vh;
+    }
+    form,.content{
+        width: 100%;
+    }
+    .btn{
+        flex-direction: column;
+    }
+}
+
+    @media(max-width:425){
+        form{
+            padding: 20px;
+        }
+    }
+    form div input{
+        padding-left: 30px;
+    }
