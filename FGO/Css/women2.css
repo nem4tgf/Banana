@@ -1,0 +1,203 @@
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    width: 1144px;
+    top: 28px;
+    left: 148px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .MEN-WOMEN-CHILDREN {
+    position: absolute;
+    width: 1180px;
+    top: 107px;
+    left: 148px;
+    font-family: "Inter", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .line {
+    height: 4px;
+    top: 197px;
+    position: absolute;
+    width: 1440px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 66px;
+    top: 207px;
+    left: 0;
+  }
+  
+  .desktop .img {
+    height: 1px;
+    top: 65px;
+    position: absolute;
+    width: 1440px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .dolce-gabbana-louis {
+    position: absolute;
+    width: 1401px;
+    top: 0;
+    left: 39px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .fdcztfjd-s {
+    position: absolute;
+    width: 299px;
+    height: 336px;
+    top: 434px;
+    left: 74px;
+    object-fit: cover;
+  }
+  
+  .desktop .fsagdby-hm {
+    position: absolute;
+    width: 296px;
+    height: 336px;
+    top: 434px;
+    left: 572px;
+    object-fit: cover;
+  }
+  
+  .desktop .fqtful-m {
+    position: absolute;
+    width: 310px;
+    height: 336px;
+    top: 434px;
+    left: 1056px;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap {
+    position: absolute;
+    width: 286px;
+    height: 222px;
+    top: 781px;
+    left: 84px;
+  }
+  
+  .desktop .p {
+    position: absolute;
+    width: 278px;
+    top: 0;
+    left: 0;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .pngtree-cart-icon {
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    top: 82px;
+    left: 227px;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap-2 {
+    position: absolute;
+    width: 278px;
+    height: 222px;
+    top: 781px;
+    left: 590px;
+  }
+  
+  .desktop .pngtree-cart-icon-2 {
+    top: 82px;
+    left: 205px;
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap-3 {
+    position: absolute;
+    width: 307px;
+    height: 222px;
+    top: 781px;
+    left: 1072px;
+  }
+  
+  .desktop .pngtree-cart-icon-3 {
+    top: 82px;
+    left: 248px;
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    object-fit: cover;
+  }
+  
+  .desktop .pngtree-cart-icon-4 {
+    top: 0;
+    left: 1381px;
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    object-fit: cover;
+  }
+  .desktop .tag{
+    color: #000000;
+      }
+      .desktop .tag:hover{
+        border-bottom:2px solid #000000 ;
+      }  
+
+.desktop .main{
+    position: absolute;
+    width: 1144px;
+    top: 28px;
+    left: 148px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
